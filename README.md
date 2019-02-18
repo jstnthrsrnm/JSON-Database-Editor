@@ -1,5 +1,4 @@
-# hello-world
-Description (optional)
+# JSON Database Editor
 
-azertyuiop
+A tool for editing and merging .Net DataTable JSON files.
 

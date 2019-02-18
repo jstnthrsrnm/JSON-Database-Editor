@@ -1,4 +1,4 @@
 # JSON Database Editor
 
-A tool for editing and merging .Net DataTable JSON files.
+A tool for editing and merging DataTable JSON files.
 

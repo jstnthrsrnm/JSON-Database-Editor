@@ -1,5 +1,5 @@
 # JSON DataTable Editor
 
-A tool for editing and merging JSON DataTable files.
+A tool for editing and merging JSON database files.
 
 ![screenshot](../master/screenshot3.png)
